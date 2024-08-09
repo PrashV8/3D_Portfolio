@@ -167,7 +167,7 @@ export const experiences = [
         ],
     },
     {
-        title: "Full stack Developer",
+        title: "Web Developer",
         company_name: "prerit",
         icon: prerit,
         iconBg: "#a2d2ff",
